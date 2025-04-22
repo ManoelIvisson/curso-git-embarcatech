@@ -1,0 +1,13 @@
+Lista de Comandos Git:
+
+1 - git init
+2 - git config --local user.name "Manoel"
+3 - git config --local user.email "manoelivisson4@hotmail.com"
+4 - git add nome-e-matricula.txt
+5 - git commit -m "Primeiro commit contendo um arquivo com nome e matricula"
+6 - git branch -m main (Não era obrigatório, mas mudei o nome da branch principal de master para main)
+7 - git remote add origin https://github.com/ManoelIvisson/curso-git-embarcatech.git
+8 - git push -u origin main
+9 - git add lista-de-comandos.txt
+10 - git commit -m "Segundo commit contendo um arquivo com a lista de comandos utilizados"
+11 - git push
